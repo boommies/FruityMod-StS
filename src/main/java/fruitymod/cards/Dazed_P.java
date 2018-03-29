@@ -33,7 +33,7 @@ public class Dazed_P extends CustomCard {
 	private static final int POOL = 0;
 
 	public Dazed_P() {
-		super(ID, NAME, "status/dazed", COST, DESCRIPTION,
+		super(ID, NAME, "img/cards/status/dazed", COST, DESCRIPTION,
 				AbstractCard.CardType.ATTACK, AbstractCardEnum.PURPLE,
 				AbstractCard.CardRarity.COMMON, AbstractCard.CardTarget.ENEMY, POOL);
 		// public CustomCard(String id, String name, String img, int cost, String rawDescription, 
