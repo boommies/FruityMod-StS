@@ -528,6 +528,7 @@ public class FruityMod implements PostInitializeSubscriber,
 		BaseMod.addCard(new Nova());
 		BaseMod.addCard(new Vortex());
 		BaseMod.addCard(new Nexus());
+		BaseMod.addCard(new Dazed_P());
 		
 		// make sure everything is always unlocked
 		UnlockTracker.unlockCard("Strike_P");
